@@ -10,7 +10,7 @@ Sou estudante de programação, com curso técnico em Análise e Desenvolvimento
 
 ## Contatos
 - Email: adryangianno73@gmail.com
-- LinkedIn: https://www.linkedin.com/in/adryan-gianno-barbosa-2958a6218/
+- LinkedIn: [Adryan Gianno Barbosa]https://www.linkedin.com/in/adryan-gianno-barbosa-2958a6218/
 
 Sinta-se à vontade para explorar meu trabalho, dar feedbacks ou colaborar!
 
@@ -26,6 +26,6 @@ I am a programming student with a technical degree in Systems Analysis and Devel
 
 ##Contact
 - Email: adryangianno73@gmail.com
-- LinkedIn: Adryan Gianno Barbosa
+- LinkedIn: [Adryan Gianno Barbosa](https://www.linkedin.com/in/adryan-gianno-barbosa-2958a6218/)
   
 Feel free to explore my work, give feedback, or collaborate!
