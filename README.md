@@ -24,7 +24,7 @@ I am a programming student with a technical degree in Systems Analysis and Devel
 - CSS
 - JavaScript
 
-##Contact
+## Contact
 - Email: adryangianno41@gmail.com
 - LinkedIn: [Adryan Gianno Barbosa](https://www.linkedin.com/in/adryan-gianno-barbosa-2958a6218/)
   
